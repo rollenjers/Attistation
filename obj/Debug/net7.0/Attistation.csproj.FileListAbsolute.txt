@@ -1,0 +1,14 @@
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Attistation\bin\Debug\net7.0\Attistation.exe
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Attistation\bin\Debug\net7.0\Attistation.deps.json
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Attistation\bin\Debug\net7.0\Attistation.runtimeconfig.json
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Attistation\bin\Debug\net7.0\Attistation.dll
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Attistation\bin\Debug\net7.0\Attistation.pdb
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Attistation\obj\Debug\net7.0\Attistation.GeneratedMSBuildEditorConfig.editorconfig
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Attistation\obj\Debug\net7.0\Attistation.AssemblyInfoInputs.cache
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Attistation\obj\Debug\net7.0\Attistation.AssemblyInfo.cs
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Attistation\obj\Debug\net7.0\Attistation.csproj.CoreCompileInputs.cache
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Attistation\obj\Debug\net7.0\Attistation.dll
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Attistation\obj\Debug\net7.0\refint\Attistation.dll
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Attistation\obj\Debug\net7.0\Attistation.pdb
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Attistation\obj\Debug\net7.0\Attistation.genruntimeconfig.cache
+D:\6. Geekbrains\01_Основной блок\Знакомство с языками программирования (семинары в записи)\Tasks\Attistation\obj\Debug\net7.0\ref\Attistation.dll
